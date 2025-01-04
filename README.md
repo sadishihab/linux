@@ -1,8 +1,7 @@
 
 ### Operating Systems & Linux Basics ###
-<br />
 ![Linux Icon for Linux Module](linux.png "OS & Linux Basics Module")
-
+<br />
 **Commands used while learning:**
 
 <details>
