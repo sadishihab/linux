@@ -2,6 +2,9 @@
 <br />
 ![Linux Icon](linux.png "OS & Linux Basics")
 
+### Operating Systems & Linux Basics ###
+![Linux Icon for Linux Module](linux.png "OS & Linux Basics Module")
+<br />
 **Commands used while learning:**
 
 <details>
