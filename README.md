@@ -1,6 +1,6 @@
 ### Operating Systems & Linux Basics ###
 <br />
-![Linux Icon for Linux Module](linux.png "OS & Linux Basics Module")
+![Linux Icon for Linux Module](https://raw.githubusercontent.com/sadishihab/linux/main/linux.png "OS & Linux Basics Module")
 
 **Commands used while learning:**
 
